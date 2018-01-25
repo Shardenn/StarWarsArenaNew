@@ -1,0 +1,5 @@
+Edit animation, its ugly1) Ability to walk slowly so character will block most attacks
+DONE	2) Throw saber in LOOK direction, not in forward actor direction
+Made event inside BP	3) Add sound to rotating saber
+DONE	4) In the start of rotation saber goes inside of player
+DONE	5) Throw saber hand animation
